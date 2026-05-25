@@ -82,3 +82,42 @@ Built with passion to combine AI + emotional intelligence for modern relationshi
 ## ⭐ Support
 
 If you like this project, star the repository and share it.
+
+---
+
+## 🛠️ Installation
+
+These steps assume you have Python 3.8+ and `pip` installed. Install dependencies:
+
+```bash
+python -m pip install -r requirements.txt
+```
+
+If you don't plan to run the full model locally, skip installing heavy packages.
+
+## 🚀 Quick Start
+
+- Clone the repo
+
+```bash
+git clone https://github.com/Majesty0/Vanessa-AI-Relationship-Agent
+cd Vanessa-AI-Relationship-Agent
+```
+
+- Install dependencies (optional)
+
+```bash
+python -m pip install -r requirements.txt
+```
+
+## 🧾 License
+
+This project is released under the MIT License. See the `LICENSE` file for details.
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome. For code contributions, please open a pull request describing your change.
+
+---
+
+If you'd like, I can add a minimal example app or notebook scaffold next.

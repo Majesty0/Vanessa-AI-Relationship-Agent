@@ -17,7 +17,6 @@ Relationships can be beautiful—but also confusing.
 Vanessa was created to help users navigate love, mixed signals, communication struggles, toxic patterns, breakups, and emotional growth.
 
 Whether you're unsure what to text next, wondering if someone truly likes you, or healing after heartbreak, this assistant offers reflective and supportive guidance.
-> <img width="1090" height="623" alt="image" src="https://github.com/user-attachments/assets/03ada651-c783-496c-b085-eb0655da303d" />
 ---
 
 ## ✨ Core Features

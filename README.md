@@ -121,3 +121,18 @@ Contributions, issues, and feature requests are welcome. For code contributions,
 ---
 
 If you'd like, I can add a minimal example app or notebook scaffold next.
+ 
+---
+
+## 📚 Examples
+
+See example prompts and small usage templates in [examples/prompt_examples.md](examples/prompt_examples.md).
+
+## 🧩 Repository Structure
+
+- `README.md` — project overview
+- `requirements.txt` — required Python packages
+- `examples/` — sample prompts and usage
+- `.github/workflows/ci.yml` — lightweight CI smoke test
+
+---

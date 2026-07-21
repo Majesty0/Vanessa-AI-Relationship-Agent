@@ -92,17 +92,6 @@ These steps assume you have Python 3.8+ and `pip` installed. Install dependencie
 python -m pip install -r requirements.txt
 ```
 
-If you don't plan to run the full model locally, skip installing heavy packages.
-
-## 🚀 Quick Start
-
-- Clone the repo
-
-```bash
-git clone https://github.com/Majesty0/Vanessa-AI-Relationship-Agent
-cd Vanessa-AI-Relationship-Agent
-```
-
 - Install dependencies (optional)
 
 ```bash
@@ -115,11 +104,7 @@ This project is released under the MIT License. See the `LICENSE` file for detai
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome. For code contributions, please open a pull request describing your change.
-
----
-
-If you'd like, I can add a minimal example app or notebook scaffold next.
+Contributions, issues, and feature requests are welcome.
  
 ---
 
